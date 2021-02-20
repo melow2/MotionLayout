@@ -5,7 +5,6 @@
     <Transition
         motion:constraintSetEnd="@+id/end"
         motion:constraintSetStart="@id/start">
-
         <OnSwipe motion:touchAnchorId="@id/red_star" />
     </Transition>
 
